@@ -72,10 +72,15 @@ This project explores a large-scale marketing campaign dataset using **Explorato
 
 ## 📈 Sample Visuals
 
-- Distribution plots: Revenue, CPC, CTR
+- Distribution plots: CPC, CTR
+  ![CPC](images/Dist_CPC.png)
+  ![CTR](images/Dist_CTR.png)
+  
 - Time series: Revenue & ROI over time
+  ![Revenue over time](images/market_revenue_over_time.png)
+  ![ROI over time](images/ROI_over_time.png)
+  
 - Heatmaps: Channel vs Campaign ROI
-- Grouped bar charts for company performance
+  ![Heatmap](images/Channel_vs_campaign.png)
 
-## 📁 Folder Structure
 
