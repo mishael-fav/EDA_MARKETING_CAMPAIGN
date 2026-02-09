@@ -25,19 +25,19 @@ The project was designed to answer the following key business questions:
 
 ## 📈 Marketing Campaign Performance (Insight into MARKETING CAMPAIGN)
 
-The marketing campaign portfolio demonstrates strong and consistent profitability. From a total investment of approximately $2.5B, the campaigns generated $15.02B in revenue, resulting in about $12.5B in profit and an overall ROI of 5%. This indicates that current marketing efforts are financially sustainable and operationally effective.
+- The marketing campaign portfolio demonstrates strong and consistent profitability. From a total investment of approximately $2.5B, the campaigns generated $15.02B in revenue, resulting in about $12.5B in profit and an overall ROI of 5%. This indicates that current marketing efforts are financially sustainable and operationally effective.
 
-At the channel level, Facebook emerged as the most efficient platform, delivering the highest ROI (5.02%) alongside the strongest engagement, with a click-through rate of 14.05%. This combination suggests Facebook is well-positioned for scaling future campaigns without sacrificing efficiency.
+- At the channel level, Facebook emerged as the most efficient platform, delivering the highest ROI (5.02%) alongside the strongest engagement, with a click-through rate of 14.05%. This combination suggests Facebook is well-positioned for scaling future campaigns without sacrificing efficiency.
 
-From a campaign-type perspective, Display campaigns—particularly those delivered via Email—performed best overall. This combination achieved the highest ROI (5.03%) and the highest average revenue per campaign ($75.8K), highlighting the effectiveness of pairing visually driven content with direct audience reach.
+- From a campaign-type perspective, Display campaigns—particularly those delivered via Email—performed best overall. This combination achieved the highest ROI (5.03%) and the highest average revenue per campaign ($75.8K), highlighting the effectiveness of pairing visually driven content with direct audience reach.
 
-Conversely, Email campaigns distributed through YouTube recorded the lowest ROI (4.96%), suggesting a misalignment between the channel and campaign format. These campaigns may benefit from redesign or reallocation toward higher-performing channels such as Facebook or Display.
+- Conversely, Email campaigns distributed through YouTube recorded the lowest ROI (4.96%), suggesting a misalignment between the channel and campaign format. These campaigns may benefit from redesign or reallocation toward higher-performing channels such as Facebook or Display.
 
-Customer segmentation analysis shows that the “Foodies” segment contributed the highest total revenue ($3.03B). This presents a clear opportunity to deepen engagement with this audience through more targeted messaging and cross-category promotional strategies.
+- Customer segmentation analysis shows that the “Foodies” segment contributed the highest total revenue ($3.03B). This presents a clear opportunity to deepen engagement with this audience through more targeted messaging and cross-category promotional strategies.
 
-While overall profitability remains stable, conversion rates across campaign types are relatively low (approximately 0.08%), indicating a key area for optimization. Enhancements to landing page experience, personalization, and call-to-action clarity could drive meaningful performance improvements without increasing total marketing spend.
+- While overall profitability remains stable, conversion rates across campaign types are relatively low (approximately 0.08%), indicating a key area for optimization. Enhancements to landing page experience, personalization, and call-to-action clarity could drive meaningful performance improvements without increasing total marketing spend.
 
-Overall, the findings suggest the organization is operating within a mature and efficient marketing ecosystem. Future growth is more likely to come from improving conversion efficiency, optimizing cost structures, and prioritizing high-value customer segments, rather than simply increasing media spend.
+- Overall, the findings suggest the organization is operating within a mature and efficient marketing ecosystem. Future growth is more likely to come from improving conversion efficiency, optimizing cost structures, and prioritizing high-value customer segments, rather than simply increasing media spend.
 
 
 ---
