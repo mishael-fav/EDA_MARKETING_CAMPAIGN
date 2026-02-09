@@ -43,6 +43,7 @@ The project was designed to answer the following key business questions:
 ---
 
 ## 📌 Dashboard Overview
+#### The Tableau Dashboard used to visualize the analysis can be found here →[Link to Global Unicorn Arbitrage: Ecosystem Efficiency Dashboard](https://public.tableau.com/views/Book1_17605414759400/CAMPAIGNOVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 1️⃣ Campaign Overview Dashboard
 
@@ -120,7 +121,7 @@ At the Overall View (All Companies)
 - Revenue vs Cost quadrant positioning
 
 
-![Performance_Benchmarking Dashboard](./Dashboard_images/CHANNEL_ANALYSIS1.png)
+![Performance_Benchmarking Dashboard](./Dashboard_images/CHANNEL_ANALYSIS.png)
 
 ---
 
@@ -140,19 +141,14 @@ At the Overall View (All Companies)
 - Python (Data preparation & analysis)
 - Pandas, Matplotlib, Seaborn
 - Scikit-learn (Metric normalization)
-- Jupyter Notebook
+- Google Colab
 
 ---
 
-## 👥 Intended Audience
-This project is designed for:
-- Marketing Managers
-- Growth & Performance Teams
-- Business Executives
-- Data & Marketing Analysts
-- Recruiters evaluating analytics portfolios
+## 📚 Project Files
 
-No technical background is required to interpret the dashboards.
+- [`Google Colab Link`](https://colab.research.google.com/drive/16o2qcKG3pQvaqBpq2bRKa4La3oHLDGMT?usp=sharing)  
+- [`link to Marketing Campaign dashboard`](https://public.tableau.com/views/Book1_17605414759400/CAMPAIGNOVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
