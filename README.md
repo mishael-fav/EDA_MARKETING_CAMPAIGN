@@ -65,7 +65,7 @@ Business Questions Answered
 - Return on Ad Spend (ROAS)
 
 
-![Campaign Overview Dashboard](./CAMPAIGN%20OVERVIEW.png)
+![Campaign Overview Dashboard](./Dashboard_images/CAMPAIGN_OVERVIEW.png)
 
 ---
 
@@ -90,7 +90,7 @@ It analyzes the customer journey from impressions to clicks to conversions and e
 - Revenue vs Cost
 - ROI by Channel and Campaign Type
 
-![Channel Analysis Dashboard](./CHANNEL%20ANALYSIS%20(1).png)
+![Channel Analysis Dashboard](./Dashboard_images/CAMPAIGN_DEEPDIVE.png)
 
 ---
 
@@ -120,15 +120,18 @@ At the Overall View (All Companies)
 - Revenue vs Cost quadrant positioning
 
 
-![Strategic Insight Dashboard](./CAMPAIGN%20DEEPDIVE%20(1).png)
+![Performance_Benchmarking Dashboard](./Dashboard_images/CHANNEL_ANALYSIS1.png)
 
 ---
 
-## 🧠 Key Business Insights (Sample)
-- High engagement does not always translate into high profitability
-- Certain channels consistently deliver stronger ROI despite lower volume
-- Campaign performance varies significantly by location and audience segment
-- Optimizing spend allocation can improve returns without increasing total budget
+## 🧠 Business Recommendation based on Analysis
+- Increase Investment in High-ROI Campaigns Campaigns with an ROI above 5.0 should receive higher budget allocation as they demonstrate strong returns.
+- Reduce spending on campaigns with an ROI below 2.0, as they may not be cost-effective.
+- Enhance Click-Through Rate (CTR) with Better Targeting Campaigns with CTR above 10% indicate high engagement and should be expanded to similar audience segments.
+- Refine Location-Based Marketing Strategies Cities like Miami and Los Angeles had the highest CTR (~10%) and ROI (~5.0+), indicating strong audience engagement.
+- Locations with lower CTR (<7%) need more localized content or different targeting approaches.
+- Target High-Performing Demographics More Effectively Campaigns targeting Women 25-34 and Men 18-24 had the highest CTR (~14%), making them ideal segments for expansion.
+- Age groups or demographics with lower engagement should be re-evaluated for content relevance and platform suitability.
 
 ---
 
@@ -153,14 +156,6 @@ No technical background is required to interpret the dashboards.
 
 ---
 
-## 🚀 Why This Project Stands Out
-- Executive-first dashboard design
-- Clear separation of **overview, analysis, and strategy**
-- Business-driven KPIs, not vanity metrics
-- Visual storytelling focused on decision-making
-
----
-
 ## 📬 Author
 **Mishael Alelume**  
-Data Analyst | Marketing & Business Analytics  
+Data Analyst | Share you view on this project
