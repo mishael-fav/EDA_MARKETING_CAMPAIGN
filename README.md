@@ -25,15 +25,15 @@ The project was designed to answer the following key business questions:
 
 ## 📈 Marketing Campaign Performance (Insight into MARKETING CAMPAIGN)
 
-- The marketing campaign portfolio demonstrates strong and consistent profitability. From a total investment of approximately $2.5B, the campaigns generated $15.02B in revenue, resulting in about $12.5B in profit and an overall ROI of 5%. This indicates that current marketing efforts are financially sustainable and operationally effective.
+- The marketing campaign portfolio demonstrates strong and consistent profitability. From a total investment of approximately **$2.5B**, the campaigns generated **$15.02B** in **revenue**, resulting in about **$12.5B** in **profit** and an overall **ROI of 5%**. This indicates that current marketing efforts are financially sustainable and operationally effective.
 
-- At the channel level, Facebook emerged as the most efficient platform, delivering the highest ROI (5.02%) alongside the strongest engagement, with a click-through rate of 14.05%. This combination suggests Facebook is well-positioned for scaling future campaigns without sacrificing efficiency.
+- At the **Channel** level, `Facebook` emerged as the most efficient platform, delivering the `highest ROI (5.02%)` alongside the strongest engagement, with a `click-through rate` of `14.05%`. This combination suggests Facebook is well-positioned for scaling future campaigns without sacrificing efficiency.
 
-- From a campaign-type perspective, Display campaigns—particularly those delivered via Email—performed best overall. This combination achieved the highest ROI (5.03%) and the highest average revenue per campaign ($75.8K), highlighting the effectiveness of pairing visually driven content with direct audience reach.
+- From a **Campaign-type** perspective, `Display campaigns` particularly those delivered via `Email` performed best overall. This combination achieved the `highest ROI (5.03%)` and the `highest average revenue per campaign ($75.8K)`, highlighting the effectiveness of pairing visually driven content with direct audience reach.
 
-- Conversely, Email campaigns distributed through YouTube recorded the lowest ROI (4.96%), suggesting a misalignment between the channel and campaign format. These campaigns may benefit from redesign or reallocation toward higher-performing channels such as Facebook or Display.
+- Conversely, `Email campaigns` distributed through `YouTube` recorded the `lowest ROI (4.96%)`, suggesting a misalignment between the channel and campaign format. These campaigns may benefit from redesign or reallocation toward higher-performing channels such as Facebook or Display.
 
-- Customer segmentation analysis shows that the “Foodies” segment contributed the highest total revenue ($3.03B). This presents a clear opportunity to deepen engagement with this audience through more targeted messaging and cross-category promotional strategies.
+- Customer segmentation analysis shows that the **“Foodies”** segment contributed the `highest total revenue ($3.03B)`. This presents a clear opportunity to deepen engagement with this audience through more targeted messaging and cross-category promotional strategies.
 
 - While overall profitability remains stable, conversion rates across campaign types are relatively low (approximately 0.08%), indicating a key area for optimization. Enhancements to landing page experience, personalization, and call-to-action clarity could drive meaningful performance improvements without increasing total marketing spend.
 
@@ -45,49 +45,80 @@ The project was designed to answer the following key business questions:
 ## 📌 Dashboard Overview
 
 ### 1️⃣ Campaign Overview Dashboard
-**Purpose:**  
-Provides a high-level snapshot of overall marketing performance for a selected month.
 
-**Key Metrics Covered:**
+**Purpose**
+The Campaign Overview dashboard provides a high-level snapshot of overall marketing performance for a selected month. It is designed to be the first point of reference for stakeholders who want to quickly assess whether campaigns are performing as expected.
+
+This view focuses on core financial and efficiency metrics and highlights month-over-month changes to help identify early signs of improvement or decline.
+
+Business Questions Answered
+- Are marketing campaigns generating positive returns overall?
+- How does current performance compare to the previous month?
+- Are revenue and profit trending upward or downward?
+- Is marketing spend converting efficiently into results?
+
+**Key Metrics**
 - Revenue
 - Profit
-- ROI
+- Return on Investment (ROI)
 - Conversion Rate
-- ROAS
+- Return on Ad Spend (ROAS)
 
-This view is designed for **executives and managers** who need a fast understanding of performance trends.
 
 ![Campaign Overview Dashboard](./CAMPAIGN%20OVERVIEW.png)
 
 ---
 
 ### 2️⃣ Campaign & Channel Analysis Dashboard
-**Purpose:**  
-Examines how different campaign types and marketing channels perform across the customer funnel.
 
-**Key Insights Provided:**
-- Impression → Click → Conversion funnel
-- Cost efficiency (CPC, CPA, CPM)
-- ROI comparison across channels and campaign types
-- Revenue vs Cost relationship
+**Purpose**
+The Campaign & Channel Analysis dashboard is used to break down performance by channel and campaign type. While the overview dashboard shows what is happening, this view helps explain why it is happening.
 
-This dashboard helps identify **high-performing and underperforming channels**.
+It analyzes the customer journey from impressions to clicks to conversions and evaluates cost efficiency across channels. This dashboard supports tactical optimization decisions, such as budget reallocation and channel prioritization.
+
+**Business Questions:**
+- Which channels and campaign types deliver the highest ROI?
+- Where are users dropping off in the marketing funnel?
+- Which channels are most cost-efficient in terms of CPC and CPA?
+- Does higher spend consistently translate into higher returns?
+
+**Key Metrics**
+- Impressions → Clicks → Conversions
+- Cost per Click (CPC)
+- Cost per Acquisition (CPA)
+- Cost per Mille (CPM)
+- Revenue vs Cost
+- ROI by Channel and Campaign Type
 
 ![Channel Analysis Dashboard](./CHANNEL%20ANALYSIS%20(1).png)
 
 ---
 
-### 3️⃣ Strategic Insight Dashboard
-**Purpose:**  
-Supports strategic decision-making by comparing companies, locations, and campaign combinations.
+### 3️⃣ Performance Benchmarking Dashboard
 
-**Key Insights Provided:**
-- Best-performing channel & campaign combinations
-- City-level ROI comparison
-- Top-performing individual campaigns
-- Cost vs return positioning using quadrant analysis
+**Purpose**
+The Performance Benchmarking Dashboard is designed to support performance benchmarking and strategic decision-making at both aggregate and individual company levels.
+At the default (All Companies) view, the dashboard provides a comparative overview of how different companies perform relative to one another in terms of cost efficiency and return.
 
-This view is intended for **strategic planning and optimization discussions**.
+When a specific company is selected, the dashboard transitions into a focused performance profile, allowing stakeholders to examine that company’s revenue, cost, profit, ROI, engagement, and conversion metrics in detail.
+
+**Business Questions**
+At the Overall View (All Companies)
+- Which company is generating the strongest returns relative to cost?
+- Are some companies operating more efficiently than others?
+- Which companies fall into high-return vs low-return quadrants?
+- Where should additional marketing investment be considered?
+
+**Key Metrics Tracked:**
+- Revenue
+- Cost
+- Profit
+- Return on Investment (ROI)
+- Return on Ad Spend (ROAS)
+- Click-Through Rate (CTR)
+- Average Conversion Rate
+- Revenue vs Cost quadrant positioning
+
 
 ![Strategic Insight Dashboard](./CAMPAIGN%20DEEPDIVE%20(1).png)
 
