@@ -25,7 +25,7 @@ The project was designed to answer the following key business questions:
 
 ## 📈 Marketing Campaign Performance (Insight into MARKETING CAMPAIGN)
 
-- The marketing campaign portfolio demonstrates strong and consistent profitability. From a total investment of approximately **$2.5B**, the campaigns generated **$15.02B** in **revenue**, resulting in about **$12.5B** in **profit** and an overall **ROI of 5%**. This indicates that current marketing efforts are financially sustainable and operationally effective.
+- The marketing campaign portfolio demonstrates strong and consistent profitability. From a total investment of approximately **$2.5B**, the campaigns generated **$15.02B** in **revenue**, resulting in about **$12.5B** in **profit** and an overall **ROI of 500.8%**. This indicates that current marketing efforts are financially sustainable and operationally effective.
 
 - At the **Channel** level, `Facebook` emerged as the most efficient platform, delivering the `highest ROI (5.02%)` alongside the strongest engagement, with a `click-through rate` of `14.05%`. This combination suggests Facebook is well-positioned for scaling future campaigns without sacrificing efficiency.
 
